@@ -1,0 +1,30 @@
+.kotak{
+    margin: 0px;
+    /* background-color: rgba(235, 225, 225, 0.712); */
+    /* color: rgba(235, 225, 225, 0.877); */
+    display: inline-block;
+    color: #0d6efd;
+}
+
+.batas-warna{
+    /* height: 40px; */
+    width: 8px;
+    background-color: rgba(235, 225, 225, 0.712);
+}
+.batas-warna-putih{
+    background-color: rgb(255, 255, 255);
+    width: 8px
+}
+.batas-warna-biru{
+    width: 8px;
+    background-color: #0d6efd;
+}
+.inline-blk{
+    display: inline-block;
+    /* overflow: hidden; */
+
+}
+.font-size{
+    font-size: 12px;
+    color: rgba(218, 209, 209, 0.911);
+}

@@ -1,0 +1,14 @@
+@media (max-width: 1200px){
+    .hilang{
+        display: none;
+    }
+}
+@media (max-width: 900px){
+    .hilang{
+        display: none;
+    }
+    .muncul{
+        display: show;
+    }
+      
+}
